@@ -3,13 +3,13 @@
  ## Implementation Links:
  [Phase 1 : Initial Setup and Deployment on AWS](https://github.com/abhishekporwal-836/Netflix-Clone-DevSecOps-Project/blob/112883b70bb8ef5d05bc17906f978b92507e549b/Phase%20files/Phase1_Initial%20Setup%20and%20Deployment.pdf)
 
- [Phase 2: Security](https://linktodocumentation)
+ [Phase 2: Security](https://github.com/abhishekporwal-836/Netflix-Clone-DevSecOps-Project/blob/697c80051794e19f07e099a06215896b44c70fc4/Phase%20files/Phase2_Security.pdf)
  
- [Phase 3 : CI/CD Setup](https://linktodocumentation)
+ [Phase 3 : CI/CD Setup](https://github.com/abhishekporwal-836/Netflix-Clone-DevSecOps-Project/blob/697c80051794e19f07e099a06215896b44c70fc4/Phase%20files/Phase3_CICD_jenkins.pdf)
  
- [Phase 4 : Monitoring using Prometheus and Grafana](https://linktodocumentation)
+ [Phase 4 : Monitoring using Prometheus and Grafana](https://github.com/abhishekporwal-836/Netflix-Clone-DevSecOps-Project/blob/697c80051794e19f07e099a06215896b44c70fc4/Phase%20files/Phase4_Monitoring.pdf)
  
- [Phase 5 : Notification through mails ](https://linktodocumentation)
+ [Phase 5 : Notification through mails ](https://github.com/abhishekporwal-836/Netflix-Clone-DevSecOps-Project/blob/697c80051794e19f07e099a06215896b44c70fc4/Phase%20files/Phase5_Notifcation.pdf)
 
 
 
