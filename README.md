@@ -25,39 +25,22 @@
     
     sudo apt-get update
     sudo apt-get install docker.io -y
-    sudo usermod -aG docker $USER  # Replace with your system's username, e.g., 'ubuntu'
+    sudo usermod -aG docker $ubuntu
     newgrp docker
     sudo chmod 777 /var/run/docker.sock
     ```
-    
-- Build and run your application using Docker containers:
-    
-    ```bash
-    docker build -t netflix .
-    docker run -d --name netflix -p 8081:80 netflix:latest
-    
-    #to delete
-    docker stop <containerid>
-    docker rmi -f netflix
-    ```
-
-It will show an error cause you need API key
+  
 
 **Step 4: Get the API Key:**
 
 - Open a web browser and navigate to TMDB (The Movie Database) website.
-- Click on "Login" and create an account.
-- Once logged in, go to your profile and select "Settings."
-- Click on "API" from the left-side panel.
 - Create a new API key by clicking "Create" and accepting the terms and conditions.
-- Provide the required basic details and click "Submit."
 - You will receive your TMDB API key.
 
-Now recreate the Docker image with your api key:
+Now create the Docker image with your api key:
 ```
-docker build --build-arg TMDB_V3_API_KEY=<your-api-key> -t netflix .
+docker build --build-arg TMDB_V3_API_KEY=<my-api-key> -t netflix .
 ```
-
 
 
 **Phase 2: Security**
@@ -69,7 +52,6 @@ docker build --build-arg TMDB_V3_API_KEY=<your-api-key> -t netflix .
         ```
         docker run -d --name sonar -p 9000:9000 sonarqube:lts-community
         ```
-        
         
         To access: 
         
