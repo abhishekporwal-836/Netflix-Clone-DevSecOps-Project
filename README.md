@@ -5,7 +5,7 @@
 <br />
 
 <div>
-<video width="320" height="240" controls>
+<video >
   <source src="./Phase files/netflix-clone-video.mp4" type="video/mp4">
 </video>
 </div>
