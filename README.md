@@ -3,11 +3,11 @@
 </div>
 
 <br />
-[!Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 <div align="center">
   <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
+  <href https://github.com/abhishekporwal-836/Netflix-Clone-DevSecOps-Project/blob/3075056d1c1be76de7fd69ea04cefee37caa0519/Phase%20files/netflix-clone-video.mp4>
   <p align="center">Home Page</p>
 </div>
 
