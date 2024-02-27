@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="./Phase files/" alt="Logo" width="100%" height="100%">
+  <img src="./Phase files/netflix-clone-video.mp4" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
 
