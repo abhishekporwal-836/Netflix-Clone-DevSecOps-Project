@@ -4,11 +4,6 @@
 
 <br />
 
-<div>
-<video >
-  <source src="./Phase files/netflix-clone-video.mp4" type="video/mp4">
-</video>
-</div>
 
 <div align="center">
   <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
@@ -16,6 +11,8 @@
 </div>
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
+
+
 
  ## Implementation Links:
  [Phase 1 : Initial Setup and Deployment on AWS](https://github.com/abhishekporwal-836/Netflix-Clone-DevSecOps-Project/blob/112883b70bb8ef5d05bc17906f978b92507e549b/Phase%20files/Phase1_Initial%20Setup%20and%20Deployment.pdf)
@@ -27,6 +24,8 @@
  [Phase 4 : Monitoring using Prometheus and Grafana](https://github.com/abhishekporwal-836/Netflix-Clone-DevSecOps-Project/blob/697c80051794e19f07e099a06215896b44c70fc4/Phase%20files/Phase4_Monitoring.pdf)
  
  [Phase 5 : Notification through mails ](https://github.com/abhishekporwal-836/Netflix-Clone-DevSecOps-Project/blob/697c80051794e19f07e099a06215896b44c70fc4/Phase%20files/Phase5_Notifcation.pdf)
+
+ #[Video of Implementation]()
 
 
 
