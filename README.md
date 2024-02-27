@@ -4,6 +4,10 @@
 
 <br />
 
+<video width="320" height="240" controls>
+  <source src="./Phase files/netflix-clone-video.mp4" type="video/mp4">
+</video>
+
 <div align="center">
   <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
